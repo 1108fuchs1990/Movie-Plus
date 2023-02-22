@@ -1,10 +1,3 @@
-Movie Plus - название приложения
-Kuckudy - имя разработчика в Google Play Console
-1108fuchs1990@gmail.com - почта gmail разработчика
-Tobias Dominik Fuchs - ФИО разработчика (есть в контактной информации google)
-22.02.2023 - дата, когда вы начинаете создавать приложение
-https://1108fuchs1990.github.io/Movie-Plus/tlakhsd - ссылка на страницу terms and conditions
-
 **Privacy Policy**
 
 Kuckudy Name built the Movie Plus app as a Free app. This SERVICE is provided by Kuckudy Name at no cost and is intended for use as is.
